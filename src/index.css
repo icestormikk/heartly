@@ -11,6 +11,13 @@
         text-rendering: optimizeLegibility;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
+
+        --gray-light-color: #F5F5F5;      /* Светло-серый для основного фона */
+        --gray-medium-color: #D3D3D3;     /* Более тёмный серый для деталей */
+        --pink-pastel-color: #FFD1DC;     /* Пастельно-розовый для акцентов */
+        --peach-color: #FFE5B4;           /* Персиковый для дополнительных акцентов */
+        --green-light-color: #98FB98;     /* Светло-зелёный для интерактивных элементов */
+        --berry-lilac-color: #C39BD3;     /* Ягодный лиловый для вторичных акцентов */
     }
     a {
         @apply font-medium text-[#646cff] hover:text-[#535bf2];
