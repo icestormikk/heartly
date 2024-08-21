@@ -1,4 +1,4 @@
-name: Hearly
+name: Deploy
 
 on:
   push:
