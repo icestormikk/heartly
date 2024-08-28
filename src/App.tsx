@@ -1,7 +1,7 @@
 function App() {
   return (
-    <main className="">
-        Comming soon..
+    <main className="text-black w-full h-dvh flex justify-center items-center">
+        <p>Comming soon..</p>
     </main>
   )
 }
