@@ -1,8 +1,8 @@
 function App() {
   return (
-    <div>
-        <h1 className='text-pink-pastel-color'>Test content</h1>
-    </div>
+    <main className="">
+        Comming soon..
+    </main>
   )
 }
 
